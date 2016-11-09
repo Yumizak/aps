@@ -96,7 +96,7 @@ div.rele2_desligado
 #botao
 {
     position: absolute;
-    right: 320px;
+    right: 800px;
     top: 250px;
 	 width: 200px;
     height: 256px;
@@ -136,7 +136,7 @@ div.rele2_desligado
 #botao_2
 {
     position: absolute;
-    right: 230px;
+    right: 850px;
     top: 417px;
 	 width: 200px;
     height: 256px;
